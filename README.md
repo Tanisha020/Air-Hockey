@@ -1,26 +1,31 @@
-# Air Hockey Game
+# 🏒 Air Hockey Game
 
-An exciting **Air Hockey** game built using Python (Image Processing) that you can play right on your computer!
+A fun and interactive **Air Hockey** game built using **Python** and **OpenCV**, designed to give you a real arcade experience—right from your desktop!
 
-This project implements the classic air hockey game with a simple user interface. It allows two players to control paddles and try to score goals in the opponent's goalpost. The game runs smoothly with real-time physics simulations for the puck and paddles.
+This project replicates the classic air hockey game with real-time physics, collision detection, and smooth paddle control. Challenge your friends in a local 2-player setup and see who dominates the rink!
 
-## Features
+---
 
-- Two-player mode (local multiplayer)
-- Realistic puck movement and collision detection
-- Simple paddle control
-- Score tracking for both players
-- Interactive UI and easy-to-play controls
+## ✨ Features
 
-## Installation
+- 🎮 **Two-Player Mode** – Local multiplayer for head-to-head action  
+- 🎯 **Realistic Physics** – Smooth puck movement with accurate collision detection  
+- 🕹️ **Simple Controls** – Easy paddle navigation using keyboard or mouse  
+- 📊 **Score Tracking** – Live scoreboard for both players  
+- 🖥️ **User-Friendly UI** – Interactive gameplay using image processing with OpenCV  
 
-To run the Air Hockey game on your local machine, follow these steps:
+---
 
-### 1. Clone the repository:
+## 🚀 Getting Started
+
+Follow these quick steps to get the game running on your machine:
+
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Tanisha020/Air-Hockey.git
 cd Air-Hockey
+
 ```
 ### 2. Install Dependencies:
 
@@ -34,3 +39,10 @@ pip install opencv-python
 
 ```bash
 python main.py
+
+```
+## 🧠 Tech Stack
+
+-  **Language** – Python 
+-  **Libraries** – OpenCV, NumPy
+-  **Interface** – Image Processing + Keyboard Input
